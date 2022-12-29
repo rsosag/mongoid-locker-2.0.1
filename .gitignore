@@ -1,0 +1,14 @@
+# simplecov
+coverage
+
+# yard
+doc
+.yardoc
+
+# bundler
+pkg
+.bundle
+Gemfile.lock
+
+# guard
+tmp
